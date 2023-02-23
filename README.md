@@ -1,5 +1,5 @@
-# Interfacer1-to-882SIO-adaptor
-A small adaptor card to make an S100 Compupro Interfacer 1 card perform as an Altair 882SIO card
+# Interfacer1 to 882SIO adaptor
+A small adaptor card to make an S-100 Compupro Interfacer 1 card perform as an Altair 882SIO card
 
 <img width="820" alt="Screenshot 2023-02-23 at 11 04 30 PM" src="https://user-images.githubusercontent.com/61561950/220876731-1ecf25c7-e663-424d-a691-065eca725a0e.png">
 
