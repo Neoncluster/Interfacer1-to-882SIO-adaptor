@@ -1,0 +1,27 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Compupro-Interfacer-1.2
+*Date=22:54:09
+*CreatedBy=Fritzing 0.8.7b.01.24.1bf5
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;DIP (Dual Inline) [THT];22.9856;-15.4876;0;Bottom;IC13
+2;;;23.9887;-15.4323;90;Bottom;TXT4
+3;;;8.75523;-15.4627;90;Bottom;TXT4
+4;;DIP (Dual Inline) [THT];7.74559;-15.4876;0;Bottom;IC11
+5;;DIP (Dual Inline) [THT];38.2256;-15.4876;0;Bottom;IC15
+6;;DIP (Dual Inline) [THT];40.7656;-15.4876;0;Bottom;IC16
+7;;;40.7097;-1.32734;0;Bottom;TXT4
+8;;;39.2513;-15.4142;90;Bottom;TXT4
+9;;;1.2373;-15.4976;90;Bottom;TXT4
+10;;DIP (Dual Inline) [THT];10.2856;-15.4876;0;Bottom;IC12
+11;;DIP (Dual Inline) [THT];25.5256;-15.4876;0;Bottom;IC14
+12;;;24.1162;-29.2006;0;Bottom;TXT4
