@@ -1,9 +1,9 @@
 # Interfacer1-to-882SIO-adaptor
-A small adaptor card to make an S100 Compupro Interfacer 1 card act like a Altair 882SIO card
+A small adaptor card to make an S100 Compupro Interfacer 1 card perform as an Altair 882SIO card
 
 <img width="820" alt="Screenshot 2023-02-23 at 11 04 30 PM" src="https://user-images.githubusercontent.com/61561950/220876731-1ecf25c7-e663-424d-a691-065eca725a0e.png">
 
-First build the adaptor baord:
+First build the adaptor board:
 1) First install pin headers (machined type) on the right as viewed from the solder side.
 2) Install sockets on the right as viewed from the parts side.
 
