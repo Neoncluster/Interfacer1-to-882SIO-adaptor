@@ -1,12 +1,16 @@
 # Interfacer1-to-882SIO-adaptor
 A small adaptor card to make an S100 Compupro Interfacer 1 card act like a Altair 882SIO card
 
-<img width="433" alt="Screenshot 2023-02-23 at 10 59 11 PM" src="https://user-images.githubusercontent.com/61561950/220875649-7f7477ab-ce0d-41ad-a309-bbb7775a2514.png">
-
 <img width="820" alt="Screenshot 2023-02-23 at 11 04 30 PM" src="https://user-images.githubusercontent.com/61561950/220876731-1ecf25c7-e663-424d-a691-065eca725a0e.png">
 
+to complete the install:
+1) Pull IC 22 from its socket, and gently bend pins 4 and 12 so that 
+   they do not go into the socket. Put the chip back in the socket that way.
+2) On the solder side of the board, solder a wire from IC14-9 to IC14-10
+3) On the solder side of the board, solder a wire from IC12-9 to IC12-10
 
-replaced the following wiring Instructions:
+Replaces the following wiring Instructions:
+
 Rework to configure Interfacer-1 as 88-2SIO:
 Swap the status register ready line bits, both ports:
 1) Pull IC27 from its socket, and gently bend pins 7 and 13 so that they
